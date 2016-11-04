@@ -1,0 +1,27 @@
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/target/scala-2.11/classes/models/store/Message.class: stamp changed from lastModified(1478297027000) to lastModified(1478297221000)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set(/Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/target/scala-2.11/classes/models/store/Message.class)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set(/Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/app/services/StandardMessageService.java, /Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/app/repository/MessageDao.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/app/services/StandardMessageService.java, /Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/app/repository/MessageDao.java)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Java sources to /Users/nelly/Documents/Workspaces/challenges/simple-chat/chat/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@29e4087d directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.106511622 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.033837179 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.145252338 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

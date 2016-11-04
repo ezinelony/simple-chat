@@ -1,0 +1,311 @@
+[0m[[0minfo[0m] [0mIncluding from cache: play-java-jdbc_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-datatype-jsr310-2.7.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-netty-utils-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jul-to-slf4j-1.7.16.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-transport-native-epoll-4.0.36.Final-linux-x86_64.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-jdbc_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jcl-over-slf4j-1.7.16.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-jdbc-api_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: tyrex-1.0.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-java_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-lang3-3.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-streams_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: reactive-streams-1.0.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: snakeyaml-1.16.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: joda-time-2.9.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-common-4.0.36.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: joda-convert-1.8.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-iteratees_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-buffer-4.0.36.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-xml_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-ebean_2.11-3.0.0-M1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-enhancer-1.1.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: twirl-api_2.11-1.1.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-transport-4.0.36.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-logback_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-stm_2.11-0.7.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: hibernate-validator-5.2.4.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: logback-core-1.1.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: validation-api-1.1.0.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: logback-classic-1.1.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jboss-logging-3.2.1.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: config-1.3.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: classmate-1.1.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: javax.el-api-3.0.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-json_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: build-link-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-exceptions-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-handler-4.0.36.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-resolver-dns-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: spring-context-4.2.4.RELEASE.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-functional_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-resolver-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-datacommons_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: slf4j-api-1.7.21.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-codec-dns-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-core-2.7.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-annotations-2.7.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: guava-19.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: typetools-0.4.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jsr305-3.0.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: tomcat-servlet-api-8.0.32.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: spring-core-4.2.4.RELEASE.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-stream_2.11-2.4.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-reflect-2.11.7.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-jdbc-evolutions_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: javassist-3.20.0-GA.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-library-2.11.8.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-databind-2.7.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: signpost-core-1.2.1.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jackson-datatype-jdk8-2.7.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: spring-beans-4.2.4.RELEASE.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: signpost-commonshttp4-1.2.1.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: javax.inject-1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-slf4j_2.11-2.4.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: aopalliance-1.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: reflections-0.9.10.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: guice-assistedinject-4.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: annotations-13.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding: sqlite-jdbc-3.14.2.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-codec-1.10.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: persistence-api-1.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: bonecp-0.8.0.RELEASE.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: httpcore-4.0.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: HikariCP-2.4.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jdbcdslog-1.0.6.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: httpclient-4.0.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: avaje-ebeanorm-agent-4.7.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-server_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: commons-logging-1.1.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: avaje-ebeanorm-6.8.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-netty-server_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: xercesImpl-2.11.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-cache_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-reactive-streams-http-1.0.5.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: xml-apis-1.4.01.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-reactive-streams-1.0.5.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: jta-1.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: akka-actor_2.11-2.4.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: ehcache-core-2.6.11.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: guice-4.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: h2-1.4.191.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-java8-compat_2.11-0.7.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: ssl-config-akka_2.11-0.2.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: ssl-config-core_2.11-0.2.1.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-java-ws_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-ws_2.11-2.5.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: async-http-client-2.0.2.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-codec-http-4.0.36.Final.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: netty-codec-4.0.36.Final.jar[0m
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/LICENSE' with strategy 'rename'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/LICENSE.zentus' with strategy 'rename'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/DEPENDENCIES' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/INDEX.LIST' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0mdebug[0m] [0mMerging 'META-INF/io.netty.versions.properties' with strategy 'deduplicate'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-classic/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/ch.qos.logback/logback-core/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml/classmate/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.fasterxml/classmate/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.google.code.findbugs/jsr305/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.google.code.findbugs/jsr305/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.google.guava/guava/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.google.guava/guava/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.googlecode.usc/jdbcdslog/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.googlecode.usc/jdbcdslog/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.jolbox/bonecp/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.jolbox/bonecp/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.typesafe.netty/netty-reactive-streams-http/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.typesafe.netty/netty-reactive-streams-http/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.typesafe.netty/netty-reactive-streams/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.typesafe.netty/netty-reactive-streams/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.zaxxer/HikariCP/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/com.zaxxer/HikariCP/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-codec/commons-codec/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-codec/commons-codec/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-logging/commons-logging/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/commons-logging/commons-logging/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-buffer/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-buffer/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-codec-http/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-codec-http/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-codec/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-codec/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-common/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-common/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-handler/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-handler/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-transport-native-epoll/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-transport-native-epoll/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-transport/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/io.netty/netty-transport/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/javax.el/javax.el-api/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/javax.el/javax.el-api/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/javax.validation/validation-api/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/javax.validation/validation-api/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/joda-time/joda-time/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/joda-time/joda-time/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/net.jodah/typetools/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/net.jodah/typetools/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/net.sf.ehcache/ehcache-core/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/net.sf.ehcache/ehcache-core/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/oauth.signpost/signpost-commonshttp4/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/oauth.signpost/signpost-commonshttp4/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/oauth.signpost/signpost-core/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/oauth.signpost/signpost-core/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.commons/commons-lang3/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.commons/commons-lang3/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.httpcomponents/httpclient/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.httpcomponents/httpclient/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.httpcomponents/httpcore/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.apache.httpcomponents/httpcore/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/async-http-client/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/async-http-client/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/netty-codec-dns/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/netty-codec-dns/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/netty-resolver-dns/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/netty-resolver-dns/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/netty-resolver/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.asynchttpclient/netty-resolver/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm-agent/dependency.list' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm-agent/dependency.tree' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm-agent/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm-agent/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm/dependency.list' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm/dependency.tree' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.avaje.ebeanorm/avaje-ebeanorm/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.hibernate/hibernate-validator/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.hibernate/hibernate-validator/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.javassist/javassist/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.javassist/javassist/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.jboss.logging/jboss-logging/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.jboss.logging/jboss-logging/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.jetbrains/annotations/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.jetbrains/annotations/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.joda/joda-convert/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.joda/joda-convert/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.reflections/reflections/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.reflections/reflections/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/jcl-over-slf4j/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/jcl-over-slf4j/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/jul-to-slf4j/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/jul-to-slf4j/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/LICENSE_sqlite-jdbc-3.14.2.1' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/LICENSE_sqlite-jdbc-3.14.2.1.zentus' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/VERSION' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.xerial/sqlite-jdbc/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.yaml/snakeyaml/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.yaml/snakeyaml/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/services/com.fasterxml.jackson.databind.Module' with strategy 'filterDistinctLines'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/services/java.sql.Driver' with strategy 'filterDistinctLines'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/spring.handlers' with strategy 'filterDistinctLines'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/spring.schemas' with strategy 'filterDistinctLines'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/spring.tooling' with strategy 'filterDistinctLines'[0m
+[0m[[0mdebug[0m] [0mMerging 'org/apache/commons/logging/Log.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'org/apache/commons/logging/LogConfigurationException.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'org/apache/commons/logging/LogFactory.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'org/apache/commons/logging/impl/NoOpLog.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'org/apache/commons/logging/impl/SimpleLog$1.class' with strategy 'deduplicate'[0m
+[0m[[0mdebug[0m] [0mMerging 'org/apache/commons/logging/impl/SimpleLog.class' with strategy 'deduplicate'[0m
+[0m[[33mwarn[0m] [0mMerging 'reference.conf' with strategy 'concat'[0m
+[0m[[31merror[0m] [0m7 errors were encountered during merge[0m
+java.lang.RuntimeException: deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/io.netty/netty-transport-native-epoll/jars/netty-transport-native-epoll-4.0.36.Final-linux-x86_64.jar:META-INF/io.netty.versions.properties
+/Users/nelly/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.36.Final.jar:META-INF/io.netty.versions.properties
+/Users/nelly/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.36.Final.jar:META-INF/io.netty.versions.properties
+/Users/nelly/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.36.Final.jar:META-INF/io.netty.versions.properties
+/Users/nelly/.ivy2/cache/io.netty/netty-codec-http/jars/netty-codec-http-4.0.36.Final.jar:META-INF/io.netty.versions.properties
+/Users/nelly/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.36.Final.jar:META-INF/io.netty.versions.properties
+/Users/nelly/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.36.Final.jar:META-INF/io.netty.versions.properties
+deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/Log.class
+/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/Log.class
+deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/LogConfigurationException.class
+/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/LogConfigurationException.class
+deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/LogFactory.class
+/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/LogFactory.class
+deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/impl/NoOpLog.class
+/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/impl/NoOpLog.class
+deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/impl/SimpleLog$1.class
+/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/impl/SimpleLog$1.class
+deduplicate: different file contents found in the following:
+/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/impl/SimpleLog.class
+/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/impl/SimpleLog.class
+	at sbtassembly.Assembly$.applyStrategies(Assembly.scala:140)
+	at sbtassembly.Assembly$.x$1$lzycompute$1(Assembly.scala:25)
+	at sbtassembly.Assembly$.x$1$1(Assembly.scala:23)
+	at sbtassembly.Assembly$.stratMapping$lzycompute$1(Assembly.scala:23)
+	at sbtassembly.Assembly$.stratMapping$1(Assembly.scala:23)
+	at sbtassembly.Assembly$.inputs$lzycompute$1(Assembly.scala:67)
+	at sbtassembly.Assembly$.inputs$1(Assembly.scala:57)
+	at sbtassembly.Assembly$.apply(Assembly.scala:83)
+	at sbtassembly.Assembly$$anonfun$assemblyTask$1.apply(Assembly.scala:240)
+	at sbtassembly.Assembly$$anonfun$assemblyTask$1.apply(Assembly.scala:237)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[0m[[31merror[0m] [0m(chat/*:[31massembly[0m) deduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-transport-native-epoll/jars/netty-transport-native-epoll-4.0.36.Final-linux-x86_64.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.36.Final.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.36.Final.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.36.Final.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-codec-http/jars/netty-codec-http-4.0.36.Final.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.36.Final.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.36.Final.jar:META-INF/io.netty.versions.properties[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/Log.class[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/Log.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/LogConfigurationException.class[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/LogConfigurationException.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/LogFactory.class[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/LogFactory.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/impl/NoOpLog.class[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/impl/NoOpLog.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/impl/SimpleLog$1.class[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/impl/SimpleLog$1.class[0m
+[0m[[31merror[0m] [0mdeduplicate: different file contents found in the following:[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.16.jar:org/apache/commons/logging/impl/SimpleLog.class[0m
+[0m[[31merror[0m] [0m/Users/nelly/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:org/apache/commons/logging/impl/SimpleLog.class[0m

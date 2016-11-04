@@ -1,0 +1,6 @@
+  Welcome to tradeio! We' re excited to have you as a member of this community. \n
+We are delighted to have you join our vibrant community. \n
+ Please click this link http://localhost:9000/account/activate/__activationCode__ to activate your account\n
+
+Sincerely,\n
+The tradeio team.

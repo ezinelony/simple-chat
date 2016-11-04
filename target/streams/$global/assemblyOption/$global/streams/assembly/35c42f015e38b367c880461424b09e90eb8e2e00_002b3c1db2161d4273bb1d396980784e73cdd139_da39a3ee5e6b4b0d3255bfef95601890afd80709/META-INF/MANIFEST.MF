@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Export-Package: biz.source_code.base64Coder
+Built-By: chdh
+Tool: Bnd-0.0.357
+Bundle-Name: Base64Coder
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: source-code.biz
+Build-Jdk: 1.6.0_19
+Bundle-Version: 1.0.0.2010-12-19
+Bnd-LastModified: 1292801725000
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.eclipse.org/legal, http://www.gnu.org/licen
+ ses/lgpl.html, http://www.gnu.org/licenses/lgpl.html, http://www.apac
+ he.org/licenses, http://www.opensource.org/licenses/bsd-license.php
+Bundle-Description: A Base64 encoder/decoder in Java.
+Bundle-DocURL: http://www.source-code.biz/base64coder/java
+Bundle-SymbolicName: biz.source_code.base64coder
+Import-Package: biz.source_code.base64Coder
+

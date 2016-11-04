@@ -1,0 +1,9 @@
+org.avaje.ebeanorm:avaje-ebeanorm-agent:jar:4.7.1
++- org.apache.ant:ant:jar:1.7.0:provided
+|  \- org.apache.ant:ant-launcher:jar:1.7.0:provided
++- javax.persistence:persistence-api:jar:1.0:compile
++- org.avaje.ebeanorm:avaje-ebeanorm:jar:4.5.5:test
+|  \- com.fasterxml.jackson.core:jackson-core:jar:2.4.3:test
++- org.slf4j:slf4j-api:jar:1.7.2:test
+\- junit:junit:jar:4.12:test
+   \- org.hamcrest:hamcrest-core:jar:1.3:test

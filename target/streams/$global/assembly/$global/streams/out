@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0mIncluding from cache: base64coder-2010-12-19.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: play-enhancer-1.1.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: javassist-3.18.2-GA.jar[0m
+[0m[[0minfo[0m] [0mIncluding from cache: scala-library.jar[0m
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/biz.source_code/base64coder/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/biz.source_code/base64coder/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.javassist/javassist/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/org.javassist/javassist/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mStrategy 'discard' was applied to 5 files[0m
+[0m[[0minfo[0m] [0mAssembly up to date: /Users/nelly/Documents/Workspaces/challenges/simple-chat/target/scala-2.10/simple-chat-assembly-0.1-SNAPSHOT.jar[0m

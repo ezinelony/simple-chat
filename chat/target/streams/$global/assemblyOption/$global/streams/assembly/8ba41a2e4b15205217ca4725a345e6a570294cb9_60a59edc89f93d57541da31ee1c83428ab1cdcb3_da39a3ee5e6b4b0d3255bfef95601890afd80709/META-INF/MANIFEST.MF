@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Export-Package: javax.el;version="3.0.0"
+Implementation-Version: 3.0.0
+Built-By: kichung
+Specification-Vendor: Oracle Corporation
+Tool: Bnd-0.0.255
+Bundle-Name: Expression Language 3.0 API
+Created-By: 1.7.0_09 (Oracle Corporation)
+Bundle-Vendor: GlassFish Community
+Implementation-Vendor: Oracle Corporation
+Bundle-Version: 3.0.0
+Build-Jdk: 1.7.0_09
+Bnd-LastModified: 1366930357939
+Bundle-ManifestVersion: 2
+Bundle-License: https://glassfish.dev.java.net/nonav/public/CDDL+GPL.h
+ tml
+Bundle-Description: Expression Language 3.0 API
+Specification-Version: 3.0
+Import-Package: javax.el;version="3.0.0"
+Bundle-SymbolicName: javax.el-api
+Bundle-DocURL: http://glassfish.org
+Extension-Name: javax.el
+Archiver-Version: Plexus Archiver
+

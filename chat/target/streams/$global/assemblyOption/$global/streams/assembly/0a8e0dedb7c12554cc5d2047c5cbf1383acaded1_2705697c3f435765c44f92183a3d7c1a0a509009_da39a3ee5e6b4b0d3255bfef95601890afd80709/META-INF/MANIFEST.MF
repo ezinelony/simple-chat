@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: rob
+Build-Jdk: 1.8.0_45
+build-version: 4.7.1
+Premain-Class: com.avaje.ebean.enhance.agent.Transformer
+Agent-Class: com.avaje.ebean.enhance.agent.Transformer
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+

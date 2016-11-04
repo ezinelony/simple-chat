@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.avaje.ebean
+Archiver-Version: Plexus Archiver
+Built-By: rob
+Require-Bundle: org.slf4j.api;bundle-version="1.7.2",com.springsource.
+ org.joda.time;bundle-version="1.6.0"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: avaje
+Import-Package: javax.persistence;version="2.0.0"
+Premain-Class: com.avaje.ebean.enhance.agent.Transformer
+Export-Package: com.avaje.ebean,com.avaje.ebean.annotation,com.avaje.e
+ bean.bean,com.avaje.ebean.cache,com.avaje.ebean.common,com.avaje.ebea
+ n.config,com.avaje.ebean.config.dbplatform,com.avaje.ebean.event,com.
+ avaje.ebean.meta,com.avaje.ebean.text,com.avaje.ebean.text.csv,com.av
+ aje.ebean.text.json,com.avaje.ebean.util,com.avaje.ebeaninternal.api,
+ com.avaje.ebeaninternal.jdbc,com.avaje.ebeaninternal.server.autofetch
+ ,com.avaje.ebeaninternal.server.cache,com.avaje.ebeaninternal.server.
+ cluster,com.avaje.ebeaninternal.server.cluster.mcast,com.avaje.ebeani
+ nternal.server.cluster.socket,com.avaje.ebeaninternal.server.core,com
+ .avaje.ebeaninternal.server.ddl,com.avaje.ebeaninternal.server.deploy
+ ,com.avaje.ebeaninternal.server.deploy.generatedproperty,com.avaje.eb
+ eaninternal.server.deploy.id,com.avaje.ebeaninternal.server.deploy.me
+ ta,com.avaje.ebeaninternal.server.deploy.parse,com.avaje.ebeaninterna
+ l.server.el,com.avaje.ebeaninternal.server.expression,com.avaje.ebean
+ internal.server.idgen,com.avaje.ebeaninternal.server.jdbc,com.avaje.e
+ beaninternal.server.jmx,com.avaje.ebeaninternal.server.lib,com.avaje.
+ ebeaninternal.server.lib.resource,com.avaje.ebeaninternal.server.lib.
+ sql,com.avaje.ebeaninternal.server.lib.thread,com.avaje.ebeaninternal
+ .server.lib.util,com.avaje.ebeaninternal.server.loadcontext,com.avaje
+ .ebeaninternal.server.persist,com.avaje.ebeaninternal.server.persist.
+ dml,com.avaje.ebeaninternal.server.persist.dmlbind,com.avaje.ebeanint
+ ernal.server.query,com.avaje.ebeaninternal.server.querydefn,com.avaje
+ .ebeaninternal.server.properties,com.avaje.ebeaninternal.server.resou
+ rce,com.avaje.ebeaninternal.server.text.csv,com.avaje.ebeaninternal.s
+ erver.text.json,com.avaje.ebeaninternal.server.transaction,com.avaje.
+ ebeaninternal.server.type,com.avaje.ebeaninternal.server.type.reflect
+ ,com.avaje.ebeaninternal.server.util,com.avaje.ebeaninternal.util
+Bundle-Name: Ebean-ORM
+Bundle-Version: 4.2.0
+Bundle-ClassPath: .
+Created-By: Apache Maven 3.0.5
+Build-Jdk: 1.8.0_45
+
